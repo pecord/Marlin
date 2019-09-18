@@ -596,7 +596,7 @@
 /**
  * With this option each E stepper can have its own factors for the
  * following movement settings. If fewer factors are given than the
- * total number of extruders, the last value applies to the rest.
+ * total number of extruders,Pthe last value applies to the rest.
  */
 //#define DISTINCT_E_FACTORS
 
